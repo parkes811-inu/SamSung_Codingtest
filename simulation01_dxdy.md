@@ -8,11 +8,11 @@
     - 특정 방향에 대해 이동하는 경우에 대해서는 dx, dy 테크닉을 사용합니다.
     - 아래 사진은 상, 하, 좌, 우 4방향 일 경우 예시
 
-![alt text](https://contents.codetree.ai/problems/840/images/213f1612-9722-4a92-b52d-8fde58d8acb7.png)
+<img src="https://contents.codetree.ai/problems/840/images/213f1612-9722-4a92-b52d-8fde58d8acb7.png" />
 
 <br>
 
-![dxdy](https://contents.codetree.ai/problems/840/images/c1a1b5b6-83cc-4ef2-b6cc-8eccfbc52b60.png)
+<img src="https://contents.codetree.ai/problems/840/images/c1a1b5b6-83cc-4ef2-b6cc-8eccfbc52b60.png" />
 
 ```c++
 // 현재 좌표를 기준으로 가고자 하는 방향으로 dir_num의 값을 주어 좌표 이동
