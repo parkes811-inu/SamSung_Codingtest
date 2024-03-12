@@ -8,7 +8,7 @@
     - 특정 방향에 대해 이동하는 경우에 대해서는 dx, dy 테크닉을 사용합니다.
     - 아래 사진은 상, 하, 좌, 우 4방향 일 경우 예시
 
-<img src="https://contents.codetree.ai/problems/840/images/213f1612-9722-4a92-b52d-8fde58d8acb7.png" />
+![dxdy](https://contents.codetree.ai/problems/840/images/213f1612-9722-4a92-b52d-8fde58d8acb7.png)
 
 <br>
 
